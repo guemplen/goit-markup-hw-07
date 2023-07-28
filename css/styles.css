@@ -329,8 +329,6 @@ button:focus {
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-/* ================ SECTION TEAM ================ */
-
 .second-section-icon {
   display: flex;
   align-items: center;
@@ -340,6 +338,8 @@ button:focus {
   background-color: var(--background-color-grey);
   height: 112px;
 }
+
+/* ================ SECTION TEAM ================ */
 
 .doing-style {
   border: 1px solid var(--border-color);

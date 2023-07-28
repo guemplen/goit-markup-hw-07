@@ -5,5 +5,8 @@
 @import './layout/footer.css';
 @import './layout/mobile-menu.css';
 @import './components/hero.css';
-@import './components/sections.css';
+@import './components/advantages.css';
+@import './components/doing.css';
+@import './components/team.css';
+@import './components/customers.css';
 @import './layout/footer.css';

@@ -24,10 +24,6 @@ body {
   color: var(--global-text-color);
 }
 
-.section {
-  padding: 120px 0;
-}
-
 a:hover,
 a:focus {
   cursor: pointer;
