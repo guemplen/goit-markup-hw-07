@@ -1,8 +1,16 @@
+.section-doing {
+  margin-top: 96px;
+}
+
 .doing {
   display: none;
 }
 
 @media screen and (min-width: 1158px) {
+  .section-doing {
+    margin-top: 120px;
+  }
+
   .doing {
     display: block;
   }

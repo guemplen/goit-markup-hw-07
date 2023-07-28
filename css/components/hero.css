@@ -3,7 +3,6 @@
   margin-left: auto;
   margin-right: auto;
   max-width: 428px;
-  max-height: 432px;
   padding-top: 112px;
   padding-bottom: 112px;
   background-position: center;
@@ -47,10 +46,8 @@
 @media screen and (min-width: 768px) {
   .hero-section {
     max-width: 768px;
-    max-height: 436px;
     padding-top: 112px;
     padding-bottom: 112px;
-    max-height: 436px;
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
@@ -71,10 +68,8 @@
 @media screen and (min-width: 1158px) {
   .hero-section {
     max-width: 1440px;
-    max-height: 600px;
     padding-top: 188px;
     padding-bottom: 188px;
-    max-height: 436px;
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)

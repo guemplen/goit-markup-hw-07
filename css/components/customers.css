@@ -1,7 +1,7 @@
 .section-customers {
   text-align: center;
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 96px;
+  padding-bottom: 96px;
   margin-left: auto;
   margin-right: auto;
   max-width: 1440px;
@@ -55,6 +55,10 @@
 }
 
 @media screen and (min-width: 768px) {
+  .section-customers {
+    padding-top: 120px;
+    padding-bottom: 120px;
+  }
   .customers-list {
     gap: 72px 24px;
   }

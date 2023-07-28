@@ -4,6 +4,7 @@
 @import './layout/header.css';
 @import './layout/footer.css';
 @import './layout/mobile-menu.css';
+@import './layout/modal.css';
 @import './components/hero.css';
 @import './components/advantages.css';
 @import './components/doing.css';
