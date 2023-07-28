@@ -19,6 +19,7 @@
 }
 
 .advantages-headline {
+  margin-bottom: 8px;
   max-width: 396px;
   max-height: 40px;
   font-size: 36px;
@@ -65,7 +66,6 @@
   }
 
   .advantages-headline {
-    margin-bottom: 8px;
     max-width: 264px;
     max-height: 40px;
   }
