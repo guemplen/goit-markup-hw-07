@@ -1,0 +1,17 @@
+:root {
+  --global-font: 'Roboto', sans-serif;
+  --second-font: 'Raleway', sans-serif;
+  --global-text-color: #434455;
+  --second-text-color: #2e2f42;
+  --background-color-white: #fffff;
+  --background-color-grey: #f4f4fd;
+  --global-color-blue: #4d5ae5;
+  --active-button: #404bbf;
+  --border-color: #e7e9fc;
+  --icon-color: #8e8f99;
+  --modal-overlay: #2e2f4266;
+  --hero-background: #2e2f42b3;
+  --modal-background: #fcfcfc;
+  --transition-dur: 250ms;
+  --transition-func: cubic-bezier(0.4, 0, 0.2, 1);
+}
