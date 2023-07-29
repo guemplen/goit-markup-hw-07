@@ -9,6 +9,7 @@
 
 .footer-conteiner {
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
   justify-content: start;
@@ -108,6 +109,9 @@
 
 .footer-subscribe-block {
   display: block;
+
+  margin-left: auto;
+  margin-right: auto;
 }
 .subscribe-form-text {
   display: flex;
@@ -137,7 +141,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 398px;
+  max-width: 398px;
   height: 40px;
   font-size: 12px;
   font-weight: 400;
@@ -183,6 +187,12 @@
 .subscribe-button:hover,
 .subscribe-button:focus {
   background-color: var(--active-button);
+}
+
+@media screen and (min-width: 428px) {
+  .subscribe-form-input {
+    width: 398px;
+  }
 }
 
 @media screen and (min-width: 768px) {
@@ -252,6 +262,7 @@
   }
 
   .footer-subscribe-block {
+    display: block;
     margin-left: 80px;
     margin-right: 46px;
   }
