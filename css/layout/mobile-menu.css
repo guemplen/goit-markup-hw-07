@@ -61,8 +61,21 @@
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.mobile-header-menu.mobile-menu-activ {
+  color: var(--active-button);
+}
+
+.mobile-menu-activ::after {
+  color: var(--active-button);
+}
+
 .mobile-header-menu:hover,
 .mobile-header-menu:focus {
+  color: var(--active-button);
+}
+
+.mobile-menu-activ:hover,
+.mobile-menu-activ:focus {
   color: var(--active-button);
 }
 
