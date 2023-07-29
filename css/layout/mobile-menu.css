@@ -66,6 +66,7 @@
 }
 
 .mobile-menu-activ::after {
+  content: '';
   color: var(--active-button);
 }
 

@@ -1,9 +1,6 @@
 .footer {
-  margin-left: auto;
-  margin-right: auto;
   padding-top: 98px;
   padding-bottom: 96px;
-  max-width: 1440px;
   background-color: var(--second-text-color);
 }
 
